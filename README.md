@@ -8,7 +8,7 @@
 
 <div display="inline_block">
 <a height="40" width="40" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" > 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </a> 
 <a height="40" width="40" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />        
