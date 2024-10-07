@@ -5,7 +5,7 @@
 
 [![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<i class="devicon-javascript-plain colored"></i> <i class="devicon-typescript-plain colored"></i>
+<i class="devicon-javascript-plain colored"></i> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <i class="devicon-nestjs-original colored"></i> <i class="devicon-react-original colored"></i>
           
           
