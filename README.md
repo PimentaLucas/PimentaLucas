@@ -1,7 +1,8 @@
 * Atualmente trabalho na posição de desenvolvedor fullstack sênior no Grupo Boticário
 * Minha base de conhecimento é super focada em JavaScript
-* Aumentando e me especializando no uso dos serviços da AWS para o desenvolvimento web.
-* Foco no uso de Serverless Framework para Lambdas e também aliado ao NestJS.
+* Aumentando e me especializando no uso dos serviços da AWS para o desenvolvimento web
+* Foco no uso de Serverless Framework para Lambdas
+* Amplo conhecimento em NestJS
 
 [![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
