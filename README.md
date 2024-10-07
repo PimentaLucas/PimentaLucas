@@ -7,15 +7,16 @@
 [![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div display="inline_block">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" > 
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<a height="40" width="40" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" > 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
+<a height="40" width="40" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />        
 </a>
-
-<a href="https://www.w3schools.com/html/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
-<a href="https://www.w3schools.com/css/default.asp"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
+<a height="40" width="40" href="https://www.w3schools.com/html/">
+<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</a>
+<a height="40" width="40" href="https://www.w3schools.com/css/default.asp"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
 
 </div>
 <div display="inline_block">
